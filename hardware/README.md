@@ -127,11 +127,6 @@ The soldered PCB looks like this:
 
 ![Amplifier PCB](photos/rpi-spectrum-analyzer-5.jpg)
 
-A working demo:
-
-
-[![Demo video](https://img.youtube.com/vi/hzou3v_QzIQ/0.jpg)](https://youtu.be/hzou3v_QzIQ)
-
 Now it's time to make the spectrum analyzer. A spectrum analyzer is simply a FFT (Fast Fourier Transform) of the audio signal. I used the [FFT library from ulab](https://micropython-ulab.readthedocs.io/en/latest/numpy-fft.html). The code can be found [here](../rp2040/code.py).
 
 To make it more useful, I also embedded a DS1302 RTC module to display the current time.
