@@ -6,7 +6,7 @@ And this spectrum analyzer is the result.
 
 See the following video for demo. 
 
-[![Demo video](https://img.youtube.com/vi/I7EZGfS4gGA/0.jpg)](https://youtu.be/I7EZGfS4gGA)
+[![Demo video](https://img.youtube.com/vi/qcwmG_PlZZ8/0.jpg)](https://youtu.be/qcwmG_PlZZ8)
 
 ## Hardware
 
